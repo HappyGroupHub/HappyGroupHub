@@ -1,4 +1,4 @@
-[![MasterHead](./readme_imgs/paca_banner.png)](https://alpacadabraz.io/)
+[![MasterHead](paca_banner.png)](https://alpacadabraz.io/)
 <h1 align="center">Hi 👋, I'm LD</h1>
 <h3 align="center">I do python coding and blockchain stuffs the most!</h3>
 <h3 align="center">Make sure you check out repos below <3</h3>
