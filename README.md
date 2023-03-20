@@ -4,7 +4,7 @@
 <h3 align="center">Make sure you check out repos below <3</h3>
 
 
-<img align="right" alt="Coding" width="450" src="https://github-readme-stats.vercel.app/api?username=HappyGroupHub&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox">
+<img align="right" alt="Coding" width="440" src="https://github-readme-stats.vercel.app/api?username=HappyGroupHub&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox">
 
 
 - 🦙 ALPACADABRAZ | **MODERATOR & TECH SUPPORT**
@@ -17,8 +17,8 @@
 
 - 🌱 Remember **You Only Live Once!**
 
-[![Discord-Line-Message-Sync](https://github-readme-stats.vercel.app/api/pin/?username=HappyGroupHub&repo=Discord-Line-Message-Sync&theme=gruvbox)](https://github.com/HappyGroupHub/Discord-Line-Message-Sync) [![Ironman2022-NFT](https://github-readme-stats.vercel.app/api/pin/?username=HappyGroupHub&repo=Ironman2022-NFT&theme=gruvbox)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/HappyGroupHub/Ironman2022-NFT))
-[![FCU-AutoClass](https://github-readme-stats.vercel.app/api/pin/?username=HappyGroupHub&repo=FCU-AutoClass&theme=gruvbox)](https://github.com/HappyGroupHub/FCU-AutoClass) [![Ethereum-Wallet-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=HappyGroupHub&repo=Ethereum-Wallet-Tracker&theme=gruvbox)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/HappyGroupHub/Ethereum-Wallet-Tracker))
+[![Discord-Line-Message-Sync](https://github-readme-stats.vercel.app/api/pin/?username=HappyGroupHub&repo=Discord-Line-Message-Sync&theme=gruvbox)](https://github.com/HappyGroupHub/Discord-Line-Message-Sync) [![Ironman2022-NFT](https://github-readme-stats.vercel.app/api/pin/?username=HappyGroupHub&repo=Ironman2022-NFT&theme=gruvbox)](https://github.com/HappyGroupHub/Ironman2022-NFT))
+[![FCU-AutoClass](https://github-readme-stats.vercel.app/api/pin/?username=HappyGroupHub&repo=FCU-AutoClass&theme=gruvbox)](https://github.com/HappyGroupHub/FCU-AutoClass) [![Ethereum-Wallet-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=HappyGroupHub&repo=Ethereum-Wallet-Tracker&theme=gruvbox)](https://github.com/HappyGroupHub/Ethereum-Wallet-Tracker))
 
 
 <h3 align="left">Connect with me:</h3>
