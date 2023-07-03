@@ -7,9 +7,9 @@
 <img align="right" alt="Coding" width="445" src="https://github-readme-stats.vercel.app/api?username=HappyGroupHub&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox">
 
 
-- 🦙 ALPACADABRAZ | **MODERATOR & TECH SUPPORT**
+- 💼 Microsoft Taiwan | **Intern at Microsoft Technology Center (MTC)**
 
-- 🤝 NFT ASIAN UNION | **CORE TEAM**
+- 🦙 Ex - ALPACADABRAZ TEAM | **MODERATOR & TECH SUPPORT**
 
 - 🕹️ PlayfunI Network | **OWNER**
 
